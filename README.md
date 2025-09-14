@@ -1,1 +1,1 @@
-# CAPCUT UI Assignment
+# UI Component
